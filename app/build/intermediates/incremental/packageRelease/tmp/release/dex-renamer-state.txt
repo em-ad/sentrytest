@@ -1,0 +1,16 @@
+#Thu Feb 03 12:48:01 IRST 2022
+path.4=9/classes.dex
+path.3=7/classes.dex
+path.2=11/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.4=C\:\\Users\\Emad\\AndroidStudioProjects\\SentryTest\\app\\build\\intermediates\\dex\\release\\mergeProjectDexRelease\\9\\classes.dex
+base.3=C\:\\Users\\Emad\\AndroidStudioProjects\\SentryTest\\app\\build\\intermediates\\dex\\release\\mergeProjectDexRelease\\7\\classes.dex
+base.2=C\:\\Users\\Emad\\AndroidStudioProjects\\SentryTest\\app\\build\\intermediates\\dex\\release\\mergeProjectDexRelease\\11\\classes.dex
+base.1=C\:\\Users\\Emad\\AndroidStudioProjects\\SentryTest\\app\\build\\intermediates\\dex\\release\\mergeProjectDexRelease\\0\\classes.dex
+base.0=C\:\\Users\\Emad\\AndroidStudioProjects\\SentryTest\\app\\build\\intermediates\\dex\\release\\mergeExtDexRelease\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.4=classes5.dex

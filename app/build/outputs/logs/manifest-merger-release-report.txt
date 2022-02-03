@@ -1,0 +1,304 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.databinding:databinding-adapters:7.0.3] C:\Users\Emad\.gradle\caches\transforms-3\ef39ac1b6717bd32a0bd6a15fdb98448\transformed\databinding-adapters-7.0.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:7.0.3] C:\Users\Emad\.gradle\caches\transforms-3\d6da552442bfa3ec747140f30df9e63c\transformed\databinding-runtime-7.0.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Emad\.gradle\caches\transforms-3\0b1bf553485eeaf91987ddd4b175f9e6\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Emad\.gradle\caches\transforms-3\e696b56d0ce67c64a9e2d3f7c946008b\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Emad\.gradle\caches\transforms-3\4d520dffb44eb93d94babf2cf1af2ead\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [io.sentry:sentry-android:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\a83fc49775dc15d171ef1050b15e4ca6\transformed\jetified-sentry-android-5.6.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\e381b79b655de4e5a30892217f746c04\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Emad\.gradle\caches\transforms-3\27eadcc23a21354844174a0be6af804a\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Emad\.gradle\caches\transforms-3\7b594d9746cfe6743314547f63172e96\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Emad\.gradle\caches\transforms-3\85a819be1378cfb53995b13f8abba57c\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\05f47bc610ab39e92b50a33fa7f1b851\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8893b3e1416165e1320ee19d82437d5b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Emad\.gradle\caches\transforms-3\c13e6640739d2c43f4ca67596290a904\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\c11d6d3ea3e5b069d69623644ff92e9f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\dbe61540e52db43cb734d1db5851f042\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Emad\.gradle\caches\transforms-3\cb35348e05e191d3fd89d81897b0117a\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\24c1d04ede55fe04b81bac87534b123d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\703d9ddf068a3c0bf2fc32fb166ffedf\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.sentry:sentry-android-ndk:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\eaf92f49f2c08619826b3b0493747185\transformed\jetified-sentry-android-ndk-5.6.1\AndroidManifest.xml:2:1-9:12
+MERGED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\99487c96675f29f1203feb25aa203f06\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\35fe7232da457a6f78980c5b302cf88e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\f2ad8b9f797e60b13b4ad63d47a7c71c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\df76cd8d1673a4aa10a001a8c2f74b22\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\3de626e23bb10055829a7c46e4e1614e\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\Emad\.gradle\caches\transforms-3\cd422c3e48ac670256a2242999596b5b\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Emad\.gradle\caches\transforms-3\97fa3a5d9303b03ded916b01f5e8f07b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\Emad\.gradle\caches\transforms-3\ebab774ec79ceef0b0ae4d71e343eae5\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Emad\.gradle\caches\transforms-3\060f57f510604808ec6fdf211a0620bc\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Emad\.gradle\caches\transforms-3\6c6cc21c54dee831dfeed4c984da2aa0\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\7ed7ed7318cc5104fafc14b03a963b02\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Emad\.gradle\caches\transforms-3\13fedb9429c50f178cade70f324180d7\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\a04d3e3800830a8c57ab5702117d75cb\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Emad\.gradle\caches\transforms-3\587e53ffc20cc4f818770fa39df9359d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\794ceff544132c3eb52d4aca7c1a1cf5\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Emad\.gradle\caches\transforms-3\b0b7b88a3b9699e49731379bf36dc934\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Emad\.gradle\caches\transforms-3\de8acf332bd284f495034fe2ad390d18\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Emad\.gradle\caches\transforms-3\1bd0d5162c0fc3b056bc437a230d9390\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\15c741cfee8c1c2295b79525dac35f62\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\caeceaa08d7600bed20e5308cde8e624\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\9f9d76bfe5107afebe71ec37e7b4fc36\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\dcdf87ce4c247075e9e19d1274920865\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\15958bad588cb6e5444dce7a21bcb3b7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8d6ee4399b7c5509cbfcf6339d771721\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\ecd1e1fb58035e59d3ff9368c7b5a3b8\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:9:5-67
+MERGED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:8:5-30:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Emad\.gradle\caches\transforms-3\0b1bf553485eeaf91987ddd4b175f9e6\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Emad\.gradle\caches\transforms-3\0b1bf553485eeaf91987ddd4b175f9e6\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Emad\.gradle\caches\transforms-3\e696b56d0ce67c64a9e2d3f7c946008b\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Emad\.gradle\caches\transforms-3\e696b56d0ce67c64a9e2d3f7c946008b\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8893b3e1416165e1320ee19d82437d5b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8893b3e1416165e1320ee19d82437d5b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:11:5-23:19
+MERGED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:11:5-23:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\Emad\.gradle\caches\transforms-3\cd422c3e48ac670256a2242999596b5b\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\Emad\.gradle\caches\transforms-3\cd422c3e48ac670256a2242999596b5b\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Emad\.gradle\caches\transforms-3\97fa3a5d9303b03ded916b01f5e8f07b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Emad\.gradle\caches\transforms-3\97fa3a5d9303b03ded916b01f5e8f07b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Emad\.gradle\caches\transforms-3\060f57f510604808ec6fdf211a0620bc\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Emad\.gradle\caches\transforms-3\060f57f510604808ec6fdf211a0620bc\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\15c741cfee8c1c2295b79525dac35f62\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\15c741cfee8c1c2295b79525dac35f62\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\Emad\.gradle\caches\transforms-3\cd422c3e48ac670256a2242999596b5b\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:9:9-36
+	android:theme
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:16:9-48
+	android:networkSecurityConfig
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:15:9-62
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:13:9-44
+meta-data#io.sentry.dsn
+ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:17:9-142
+	android:value
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:17:49-139
+	android:name
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:17:20-48
+meta-data#io.sentry.traces.sample-rate
+ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:18:9-86
+	android:value
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:18:64-83
+	android:name
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:18:20-63
+meta-data#io.sentry.debug
+ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:19:9-74
+	android:value
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:19:51-71
+	android:name
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:19:20-50
+meta-data#io.sentry.session-tracking.timeout-interval-millis
+ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:20:9-108
+	android:value
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:20:86-105
+	android:name
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:20:20-85
+activity#com.emad.sentrytest.MainActivity
+ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.0.3] C:\Users\Emad\.gradle\caches\transforms-3\ef39ac1b6717bd32a0bd6a15fdb98448\transformed\databinding-adapters-7.0.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.0.3] C:\Users\Emad\.gradle\caches\transforms-3\ef39ac1b6717bd32a0bd6a15fdb98448\transformed\databinding-adapters-7.0.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.3] C:\Users\Emad\.gradle\caches\transforms-3\d6da552442bfa3ec747140f30df9e63c\transformed\databinding-runtime-7.0.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.3] C:\Users\Emad\.gradle\caches\transforms-3\d6da552442bfa3ec747140f30df9e63c\transformed\databinding-runtime-7.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Emad\.gradle\caches\transforms-3\0b1bf553485eeaf91987ddd4b175f9e6\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Emad\.gradle\caches\transforms-3\0b1bf553485eeaf91987ddd4b175f9e6\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Emad\.gradle\caches\transforms-3\e696b56d0ce67c64a9e2d3f7c946008b\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Emad\.gradle\caches\transforms-3\e696b56d0ce67c64a9e2d3f7c946008b\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Emad\.gradle\caches\transforms-3\4d520dffb44eb93d94babf2cf1af2ead\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Emad\.gradle\caches\transforms-3\4d520dffb44eb93d94babf2cf1af2ead\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [io.sentry:sentry-android:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\a83fc49775dc15d171ef1050b15e4ca6\transformed\jetified-sentry-android-5.6.1\AndroidManifest.xml:6:5-9:57
+MERGED from [io.sentry:sentry-android:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\a83fc49775dc15d171ef1050b15e4ca6\transformed\jetified-sentry-android-5.6.1\AndroidManifest.xml:6:5-9:57
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\e381b79b655de4e5a30892217f746c04\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\e381b79b655de4e5a30892217f746c04\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Emad\.gradle\caches\transforms-3\27eadcc23a21354844174a0be6af804a\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Emad\.gradle\caches\transforms-3\27eadcc23a21354844174a0be6af804a\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Emad\.gradle\caches\transforms-3\7b594d9746cfe6743314547f63172e96\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Emad\.gradle\caches\transforms-3\7b594d9746cfe6743314547f63172e96\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Emad\.gradle\caches\transforms-3\85a819be1378cfb53995b13f8abba57c\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Emad\.gradle\caches\transforms-3\85a819be1378cfb53995b13f8abba57c\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\05f47bc610ab39e92b50a33fa7f1b851\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\05f47bc610ab39e92b50a33fa7f1b851\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8893b3e1416165e1320ee19d82437d5b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8893b3e1416165e1320ee19d82437d5b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Emad\.gradle\caches\transforms-3\c13e6640739d2c43f4ca67596290a904\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Emad\.gradle\caches\transforms-3\c13e6640739d2c43f4ca67596290a904\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\c11d6d3ea3e5b069d69623644ff92e9f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\c11d6d3ea3e5b069d69623644ff92e9f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\dbe61540e52db43cb734d1db5851f042\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\dbe61540e52db43cb734d1db5851f042\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Emad\.gradle\caches\transforms-3\cb35348e05e191d3fd89d81897b0117a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Emad\.gradle\caches\transforms-3\cb35348e05e191d3fd89d81897b0117a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\24c1d04ede55fe04b81bac87534b123d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\24c1d04ede55fe04b81bac87534b123d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\703d9ddf068a3c0bf2fc32fb166ffedf\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\703d9ddf068a3c0bf2fc32fb166ffedf\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.sentry:sentry-android-ndk:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\eaf92f49f2c08619826b3b0493747185\transformed\jetified-sentry-android-ndk-5.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.sentry:sentry-android-ndk:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\eaf92f49f2c08619826b3b0493747185\transformed\jetified-sentry-android-ndk-5.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\99487c96675f29f1203feb25aa203f06\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\99487c96675f29f1203feb25aa203f06\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\35fe7232da457a6f78980c5b302cf88e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\35fe7232da457a6f78980c5b302cf88e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\f2ad8b9f797e60b13b4ad63d47a7c71c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\f2ad8b9f797e60b13b4ad63d47a7c71c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\df76cd8d1673a4aa10a001a8c2f74b22\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\df76cd8d1673a4aa10a001a8c2f74b22\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\3de626e23bb10055829a7c46e4e1614e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\3de626e23bb10055829a7c46e4e1614e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Emad\.gradle\caches\transforms-3\cd422c3e48ac670256a2242999596b5b\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Emad\.gradle\caches\transforms-3\cd422c3e48ac670256a2242999596b5b\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Emad\.gradle\caches\transforms-3\97fa3a5d9303b03ded916b01f5e8f07b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Emad\.gradle\caches\transforms-3\97fa3a5d9303b03ded916b01f5e8f07b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\Emad\.gradle\caches\transforms-3\ebab774ec79ceef0b0ae4d71e343eae5\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\Emad\.gradle\caches\transforms-3\ebab774ec79ceef0b0ae4d71e343eae5\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Emad\.gradle\caches\transforms-3\060f57f510604808ec6fdf211a0620bc\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Emad\.gradle\caches\transforms-3\060f57f510604808ec6fdf211a0620bc\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Emad\.gradle\caches\transforms-3\6c6cc21c54dee831dfeed4c984da2aa0\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Emad\.gradle\caches\transforms-3\6c6cc21c54dee831dfeed4c984da2aa0\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\7ed7ed7318cc5104fafc14b03a963b02\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\7ed7ed7318cc5104fafc14b03a963b02\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Emad\.gradle\caches\transforms-3\13fedb9429c50f178cade70f324180d7\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Emad\.gradle\caches\transforms-3\13fedb9429c50f178cade70f324180d7\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\a04d3e3800830a8c57ab5702117d75cb\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\a04d3e3800830a8c57ab5702117d75cb\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Emad\.gradle\caches\transforms-3\587e53ffc20cc4f818770fa39df9359d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Emad\.gradle\caches\transforms-3\587e53ffc20cc4f818770fa39df9359d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\794ceff544132c3eb52d4aca7c1a1cf5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\794ceff544132c3eb52d4aca7c1a1cf5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Emad\.gradle\caches\transforms-3\b0b7b88a3b9699e49731379bf36dc934\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Emad\.gradle\caches\transforms-3\b0b7b88a3b9699e49731379bf36dc934\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Emad\.gradle\caches\transforms-3\de8acf332bd284f495034fe2ad390d18\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Emad\.gradle\caches\transforms-3\de8acf332bd284f495034fe2ad390d18\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Emad\.gradle\caches\transforms-3\1bd0d5162c0fc3b056bc437a230d9390\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Emad\.gradle\caches\transforms-3\1bd0d5162c0fc3b056bc437a230d9390\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\15c741cfee8c1c2295b79525dac35f62\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\15c741cfee8c1c2295b79525dac35f62\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\caeceaa08d7600bed20e5308cde8e624\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\caeceaa08d7600bed20e5308cde8e624\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\9f9d76bfe5107afebe71ec37e7b4fc36\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\9f9d76bfe5107afebe71ec37e7b4fc36\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\dcdf87ce4c247075e9e19d1274920865\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\dcdf87ce4c247075e9e19d1274920865\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\15958bad588cb6e5444dce7a21bcb3b7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\15958bad588cb6e5444dce7a21bcb3b7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8d6ee4399b7c5509cbfcf6339d771721\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8d6ee4399b7c5509cbfcf6339d771721\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\ecd1e1fb58035e59d3ff9368c7b5a3b8\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Emad\.gradle\caches\transforms-3\ecd1e1fb58035e59d3ff9368c7b5a3b8\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [io.sentry:sentry-android:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\a83fc49775dc15d171ef1050b15e4ca6\transformed\jetified-sentry-android-5.6.1\AndroidManifest.xml:9:9-54
+	android:targetSdkVersion
+		INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Emad\AndroidStudioProjects\SentryTest\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8893b3e1416165e1320ee19d82437d5b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Emad\.gradle\caches\transforms-3\060f57f510604808ec6fdf211a0620bc\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Emad\.gradle\caches\transforms-3\060f57f510604808ec6fdf211a0620bc\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\15c741cfee8c1c2295b79525dac35f62\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\15c741cfee8c1c2295b79525dac35f62\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8893b3e1416165e1320ee19d82437d5b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8893b3e1416165e1320ee19d82437d5b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8893b3e1416165e1320ee19d82437d5b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8893b3e1416165e1320ee19d82437d5b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8893b3e1416165e1320ee19d82437d5b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8893b3e1416165e1320ee19d82437d5b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Emad\.gradle\caches\transforms-3\8893b3e1416165e1320ee19d82437d5b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+provider#io.sentry.android.core.SentryInitProvider
+ADDED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:14:9-17:40
+	android:authorities
+		ADDED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:16:13-70
+	android:exported
+		ADDED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:15:13-69
+provider#io.sentry.android.core.SentryPerformanceProvider
+ADDED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:18:9-22:39
+	android:authorities
+		ADDED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:20:13-77
+	android:exported
+		ADDED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:21:13-37
+	android:initOrder
+		ADDED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from [io.sentry:sentry-android-core:5.6.1] C:\Users\Emad\.gradle\caches\transforms-3\737b5ec4311fdd37365cfc18e2be18b3\transformed\jetified-sentry-android-core-5.6.1\AndroidManifest.xml:19:13-76
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Emad\.gradle\caches\transforms-3\060f57f510604808ec6fdf211a0620bc\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Emad\.gradle\caches\transforms-3\060f57f510604808ec6fdf211a0620bc\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Emad\.gradle\caches\transforms-3\060f57f510604808ec6fdf211a0620bc\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78

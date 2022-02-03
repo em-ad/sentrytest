@@ -1,0 +1,9 @@
+com/emad/sentrytest/MainActivity.java
+ com.emad.sentrytest.MainActivity
+ com.emad.sentrytest.MainActivity$1
+com/emad/sentrytest/databinding/ActivityMainBinding.java
+ com.emad.sentrytest.databinding.ActivityMainBinding
+com/emad/sentrytest/BuildConfig.java
+ com.emad.sentrytest.BuildConfig
+com/emad/sentrytest/DataBindingTriggerClass.java
+ com.emad.sentrytest.DataBindingTriggerClass
