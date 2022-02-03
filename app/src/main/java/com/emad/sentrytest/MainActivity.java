@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         User user = new User();
         user.setEmail("emad.mollaei@gmail.com");
 
-        user.setId(Settings.Secure.ANDRgit add ./OID_ID);
+        user.setId(Settings.Secure.ANDROID_ID);
 
         Sentry.setUser(user);
         Sentry.setTag("tag", "gholam");
